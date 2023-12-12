@@ -2,7 +2,7 @@ const injectedStyles = `
   .video-js {
     position: fixed;
     right: 10px !important;
-    bottom: 100px !important;
+    bottom: 110px !important;
     width: 330px;
     height: 215px;
     z-index: 100;
