@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   console.log("Video.js player initialized");
 
-  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=emptycharacter&ad_type=video&description_url=https%3A%2F%2Ffilesamples.com%2Fsamples%2Fvideo%2Fmp4%2Fsample_960x400_ocean_with_audio.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=click";
+  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=keytopoetry&ad_type=video&description_url=https%3A%2F%2Fvideo.twimg.com%2Fext_tw_video%2F1550157512283922433%2Fpu%2Fvid%2F480x852%2FL8y92briGIlIcL9q.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=auto";
   var vastTagMidroll = "path/to/your/vast-tag.xml";
   var vastTagPostroll = "path/to/your/vast-tag.xml";
   var prerollTriggered = false;
