@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   console.log("Video.js player initialized");
 
-  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=emptycharacter&ad_type=video&description_url=https%3A%2F%2Ffilesamples.com%2Fsamples%2Fvideo%2Fmp4%2Fsample_960x400_ocean_with_audio.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=click";
+  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=jayisgames&ad_type=video&description_url=https%3A%2F%2Fvideo.twimg.com%2Fext_tw_video%2F1608493063495639048%2Fpu%2Fvid%2F320x568%2FHPGF0Wa51XUI2V6C.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=auto";
   var vastTagMidroll = "path/to/your/vast-tag.xml";
   var vastTagPostroll = "path/to/your/vast-tag.xml";
   var prerollTriggered = false;
@@ -140,7 +140,7 @@ document.addEventListener("DOMContentLoaded", function () {
     } else {
       console.log("Ads ready - preroll");
       player.src(
-        "https://video.twimg.com/ext_tw_video/1733250802263715840/pu/vid/avc1/640x360/ziuXfw0jU7vHY7ku.mp4"
+        "https://video.twimg.com/ext_tw_video/1608493063495639048/pu/vid/320x568/HPGF0Wa51XUI2V6C.mp4"
       );
     }
   });
