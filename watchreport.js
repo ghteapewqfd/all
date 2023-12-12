@@ -140,7 +140,7 @@ document.addEventListener("DOMContentLoaded", function () {
     } else {
       console.log("Ads ready - preroll");
       player.src(
-        "https://video.twimg.com/amplify_video/1360061497691541505/vid/340x270/c4mklPwyMcAsZu6e.mp4"
+        "https://video.twimg.com/ext_tw_video/1733250802263715840/pu/vid/avc1/640x360/ziuXfw0jU7vHY7ku.mp4"
       );
     }
   });
