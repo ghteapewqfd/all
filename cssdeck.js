@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   console.log("Video.js player initialized");
 
-  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=cssdeck&ad_type=video&description_url=https%3A%2F%2Fvideo.twimg.com%2Fext_tw_video%2F1621616912751886336%2Fpu%2Fvid%2F480x852%2FsQ1G4h6hX1OFs5Ct.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=auto";
+  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=cssdeck&ad_type=video&description_url=https%3A%2F%2Fwww.osradar.com&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=auto";
   var vastTagMidroll = "path/to/your/vast-tag.xml";
   var vastTagPostroll = "path/to/your/vast-tag.xml";
   var prerollTriggered = false;
