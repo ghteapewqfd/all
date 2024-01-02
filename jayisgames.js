@@ -158,7 +158,7 @@ document.addEventListener("DOMContentLoaded", function () {
       console.log("The preroll ad has finished playing.");
       prerollTriggered = true;
     }
- //    player.play();
+  player.play();
   });
 });
 
