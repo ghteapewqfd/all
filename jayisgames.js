@@ -76,8 +76,8 @@ document.addEventListener("DOMContentLoaded", function () {
   console.log("Video.js player initialized");
 
   var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=jayisgames&ad_type=video&description_url=https%3A%2F%2Fjayisgames.com&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=auto";
-  var vastTagMidroll = "path/to/your/vast-tag.xml";
-  var vastTagPostroll = "path/to/your/vast-tag.xml";
+  var vastTagMidroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=jayisgames&ad_type=video&description_url=https%3A%2F%2Fjayisgames.com&max_ad_duration=30000&videoad_start_delay=null&vpmute=1&vpa=auto";
+  var vastTagPostroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=jayisgames&ad_type=video&description_url=https%3A%2F%2Fjayisgames.com&max_ad_duration=30000&videoad_start_delay=-1&vpmute=1&vpa=auto";
   var prerollTriggered = false;
   var postrollTriggered = false;
   var midrollRequested = false;
